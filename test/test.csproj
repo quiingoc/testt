@@ -166,7 +166,11 @@
     <Content Include="Views\Home\Admin.cshtml" />
     <Content Include="Views\Shared\test.cshtml" />
     <Content Include="Views\Shared\testtt.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Shared\abcd.cshtml" />
+=======
+    <Content Include="Views\Shared\thanh.cshtml" />
+>>>>>>> 9d5a0d93c6d174ea0a2f76b2b6854552584804a0
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
